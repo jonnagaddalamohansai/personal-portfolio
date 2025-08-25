@@ -7,10 +7,10 @@ export default function Home() {
       <Navbar />
       <section className="text-center py-20">
         <FadeIn>
-          <h2 className="text-4xl font-bold mb-4">Hi, I’m [Jonnagaddala Mohan Sai]</h2>
+          <h2 className="text-4xl font-bold mb-4">Hi, I’m Jonnagaddala Mohan Sai</h2>
         </FadeIn>
         <FadeIn delay={0.3}>
-          <p className="text-lg">Frontend Developer | React & Next.js Enthusiast</p>
+          <p className="text-lg">I build interactive web applications with React and Next.js, focusing on clean UI and seamless user experiences.</p>
         </FadeIn>
       </section>
     </main>
